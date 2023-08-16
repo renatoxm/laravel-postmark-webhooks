@@ -27,7 +27,8 @@ Run the migrations to create a `postmark_webhook_logs` table in the database:
 ``` bash
 php artisan migrate
 ```
-> If you want to disable database logging you can set `POSTMARK_WEBHOOKS_LOG_ENABLED=false` in your `.env` file. 
+
+> If you want to disable database logging you can set `POSTMARK_WEBHOOKS_LOG_ENABLED=false` in your `.env` file.
 
 ## Setup webhooks with Postmark
 
