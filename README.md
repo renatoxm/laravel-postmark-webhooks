@@ -181,7 +181,9 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Mark van den Broek][link-author]
+- [Renato Nabinger][link-author]
+- Forked from [mvdnbrk/laravel-postmark-webhooks](https://github.com/mvdnbrk/laravel-postmark-webhooks)
+- [Mark van den Broek](https://github.com/mvdnbrk)
 - [All Contributors][link-contributors]
 
 Inspired by [Laravel Stripe Webooks](https://github.com/spatie/laravel-stripe-webhooks) from [Spatie](https://spatie.be/).
