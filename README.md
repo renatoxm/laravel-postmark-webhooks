@@ -195,12 +195,12 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://img.shields.io/github/workflow/status/renatoxm/laravel-postmark-webhooks/tests/main?label=tests&style=flat-square
+[ico-tests]: https://img.shields.io/github/actions/workflow/status/renatoxm/laravel-postmark-webhooks/tests.yml?branch=main
 [ico-style-ci]: https://styleci.io/repos/149487979/shield?branch=main
 [ico-downloads]: https://img.shields.io/packagist/dt/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
-[link-tests]: https://github.com/renatoxm/laravel-postmark-webhooks/actions/workflows/tests.yml?query=workflow%3Atests
+[link-tests]: https://github.com/renatoxm/laravel-postmark-webhooks/actions/workflows/tests.yml
 [link-style-ci]: https://styleci.io/repos/149487979
 [link-downloads]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
 [link-author]: https://github.com/renatoxm
