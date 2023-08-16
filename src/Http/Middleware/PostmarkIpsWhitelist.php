@@ -3,17 +3,10 @@
 namespace RenatoXM\PostmarkWebhooks\Http\Middleware;
 
 use Closure;
+use Illuminate\Support\Facades\Config;
 
 class PostmarkIpsWhitelist
 {
-    /**
-     * Array of IP addresses from Postmark that are white listed.
-     *
-     * @see https://postmarkapp.com/support/article/800-ips-for-firewalls#webhooks
-     *
-     * @var array
-     */
-    private $ips = config('postmark-webhooks.allowlist-ips');
 
     /**
      * Handle an incoming request.
@@ -24,7 +17,8 @@ class PostmarkIpsWhitelist
      */
     public function handle($request, Closure $next)
     {
-        if (collect($this->ips)->contains($request->getClientIp())) {
+
+        if (collect(config('postmark-webhooks.allowlist-ips'))->contains($request->getClientIp())) {
             return $next($request);
         }
 
