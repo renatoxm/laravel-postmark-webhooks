@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks\Events;
+namespace RenatoXM\PostmarkWebhooks\Events;
 
 class PostmarkWebhookCalled
 {

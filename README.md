@@ -18,7 +18,7 @@ This package can help you handle those webhooks.
 You can install the package via composer:
 
 ``` bash
-composer require mvdnbrk/laravel-postmark-webhooks
+composer require RenatoXM/laravel-postmark-webhooks
 ```
 
 This package will log all incoming webhooks to the database by default.  
@@ -85,14 +85,14 @@ Example of a listener:
 
 namespace App\Listeners;
 
-use Mvdnbrk\PostmarkWebhooks\Events\PostmarkWebhookCalled;
+use RenatoXM\PostmarkWebhooks\Events\PostmarkWebhookCalled;
 
 class YourListener
 {
     /**
      * Handle the event.
      *
-     * @param  \Mvdnbrk\PostmarkWebhooks\Events\PostmarkWebhookCalled  $event
+     * @param  \RenatoXM\PostmarkWebhooks\Events\PostmarkWebhookCalled  $event
      * @return void
      */
     public function handle(PostmarkWebhookCalled $event)
@@ -131,13 +131,13 @@ Available events: `open`, `bounce`, `click`, `delivery`, `spam_complaint`.
 You may optionally publish the config file with:
 
 ```bash
-php artisan vendor:publish --provider="Mvdnbrk\PostmarkWebhooks\PostmarkWebhooksServiceProvider" --tag="config"
+php artisan vendor:publish --provider="RenatoXM\PostmarkWebhooks\PostmarkWebhooksServiceProvider" --tag="config"
 ```
 
 Within the configuration file you may change the table name being used 
 or the Eloquent model being used to save log records to the database.
 > If you want to use your own model to save the logs to the database you should extend
-the `Mvdnbrk\PostmarkWebhooks\PostmarkWebhook` class.
+the `RenatoXM\PostmarkWebhooks\PostmarkWebhook` class.
 
 You can also exclude one or more event types from being logged to the database.  
 Place the events you want to exclude under the `except` key:
@@ -190,15 +190,15 @@ Inspired by [Laravel Stripe Webooks](https://github.com/spatie/laravel-stripe-we
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/mvdnbrk/laravel-postmark-webhooks.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/RenatoXM/laravel-postmark-webhooks.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://img.shields.io/github/workflow/status/mvdnbrk/laravel-postmark-webhooks/tests/main?label=tests&style=flat-square
+[ico-tests]: https://img.shields.io/github/workflow/status/RenatoXM/laravel-postmark-webhooks/tests/main?label=tests&style=flat-square
 [ico-style-ci]: https://styleci.io/repos/149487979/shield?branch=main
-[ico-downloads]: https://img.shields.io/packagist/dt/mvdnbrk/laravel-postmark-webhooks.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/RenatoXM/laravel-postmark-webhooks.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/mvdnbrk/laravel-postmark-webhooks
-[link-tests]: https://github.com/mvdnbrk/laravel-postmark-webhooks/actions?query=workflow%3Atests
+[link-packagist]: https://packagist.org/packages/RenatoXM/laravel-postmark-webhooks
+[link-tests]: https://github.com/RenatoXM/laravel-postmark-webhooks/actions?query=workflow%3Atests
 [link-style-ci]: https://styleci.io/repos/149487979
-[link-downloads]: https://packagist.org/packages/mvdnbrk/laravel-postmark-webhooks
-[link-author]: https://github.com/mvdnbrk
+[link-downloads]: https://packagist.org/packages/RenatoXM/laravel-postmark-webhooks
+[link-author]: https://github.com/RenatoXM
 [link-contributors]: ../../contributors

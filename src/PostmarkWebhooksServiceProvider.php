@@ -1,11 +1,11 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks;
+namespace RenatoXM\PostmarkWebhooks;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use Mvdnbrk\PostmarkWebhooks\Http\Controllers\StorePostmarkWebhookController;
-use Mvdnbrk\PostmarkWebhooks\Http\Middleware\PostmarkIpsWhitelist;
+use RenatoXM\PostmarkWebhooks\Http\Controllers\StorePostmarkWebhookController;
+use RenatoXM\PostmarkWebhooks\Http\Middleware\PostmarkIpsWhitelist;
 
 class PostmarkWebhooksServiceProvider extends ServiceProvider
 {

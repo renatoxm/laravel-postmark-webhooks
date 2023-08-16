@@ -1,12 +1,12 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks\Tests\Feature;
+namespace RenatoXM\PostmarkWebhooks\Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Event;
-use Mvdnbrk\PostmarkWebhooks\Events\PostmarkWebhookCalled;
-use Mvdnbrk\PostmarkWebhooks\PostmarkWebhook;
-use Mvdnbrk\PostmarkWebhooks\Tests\TestCase;
+use RenatoXM\PostmarkWebhooks\Events\PostmarkWebhookCalled;
+use RenatoXM\PostmarkWebhooks\PostmarkWebhook;
+use RenatoXM\PostmarkWebhooks\Tests\TestCase;
 
 class PostmarkWebhooksTest extends TestCase
 {

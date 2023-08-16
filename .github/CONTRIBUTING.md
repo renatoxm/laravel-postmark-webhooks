@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/mvdnbrk/laravel-postmark-webhooks).
+We accept contributions via Pull Requests on [Github](https://github.com/RenatoXM/laravel-postmark-webhooks).
 
 
 ## Pull Requests

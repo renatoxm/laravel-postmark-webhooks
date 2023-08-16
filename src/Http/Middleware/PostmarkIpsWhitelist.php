@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks\Http\Middleware;
+namespace RenatoXM\PostmarkWebhooks\Http\Middleware;
 
 use Closure;
 

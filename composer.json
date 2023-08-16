@@ -1,5 +1,5 @@
 {
-    "name": "mvdnbrk/laravel-postmark-webhooks",
+    "name": "renatoxm/laravel-postmark-webhooks",
     "description": "Handle Postmark webhooks in a Laravel application.",
     "keywords": [
         "Laravel",
@@ -7,45 +7,45 @@
         "webhook",
         "e-mail"
     ],
-    "homepage": "https://github.com/mvdnbrk/laravel-postmark-webhooks",
+    "homepage": "https://github.com/renatoxm/laravel-postmark-webhooks",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mark van den Broek",
-            "email": "mvdnbrk@gmail.com",
-            "homepage": "https://github.com/mvdnbrk",
+            "name": "Renato XM",
+            "email": "renatoxm@gmail.com",
+            "homepage": "https://github.com/renatoxm",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.2 || ^8.0",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0"
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.5 || ^5.0 || ^6.0 || ^7.0",
-        "phpunit/phpunit": "^8.5 || ^9.3"
+        "orchestra/testbench": "^4.5 || ^5.0 || ^6.0 || ^7.0 || ^8.0",
+        "phpunit/phpunit": "^8.5 || ^9.4"
     },
     "config": {
         "sort-packages": true
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0-dev"
+            "dev-master": "1.0-dev"
         },
         "laravel": {
             "providers": [
-                "Mvdnbrk\\PostmarkWebhooks\\PostmarkWebhooksServiceProvider"
+                "RenatoXM\\PostmarkWebhooks\\PostmarkWebhooksServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Mvdnbrk\\PostmarkWebhooks\\": "src"
+            "RenatoXM\\PostmarkWebhooks\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mvdnbrk\\PostmarkWebhooks\\Tests\\": "tests/"
+            "RenatoXM\\PostmarkWebhooks\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",

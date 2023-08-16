@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks;
+namespace RenatoXM\PostmarkWebhooks;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;

@@ -1,11 +1,11 @@
 <?php
 
-namespace Mvdnbrk\PostmarkWebhooks\Http\Controllers;
+namespace RenatoXM\PostmarkWebhooks\Http\Controllers;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
-use Mvdnbrk\PostmarkWebhooks\Events\PostmarkWebhookCalled;
+use RenatoXM\PostmarkWebhooks\Events\PostmarkWebhookCalled;
 
 class StorePostmarkWebhookController extends Controller
 {

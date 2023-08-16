@@ -4,8 +4,8 @@ namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Event;
-use Mvdnbrk\PostmarkWebhooks\Events\PostmarkWebhookCalled;
-use Mvdnbrk\PostmarkWebhooks\Tests\TestCase;
+use RenatoXM\PostmarkWebhooks\Events\PostmarkWebhookCalled;
+use RenatoXM\PostmarkWebhooks\Tests\TestCase;
 
 class PostmarkWebhookEventMappingTest extends TestCase
 {
