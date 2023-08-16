@@ -193,15 +193,15 @@ Inspired by [Laravel Stripe Webooks](https://github.com/spatie/laravel-stripe-we
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/RenatoXM/laravel-postmark-webhooks.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://img.shields.io/github/workflow/status/RenatoXM/laravel-postmark-webhooks/tests/main?label=tests&style=flat-square
+[ico-tests]: https://img.shields.io/github/workflow/status/renatoxm/laravel-postmark-webhooks/tests/main?label=tests&style=flat-square
 [ico-style-ci]: https://styleci.io/repos/149487979/shield?branch=main
-[ico-downloads]: https://img.shields.io/packagist/dt/RenatoXM/laravel-postmark-webhooks.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/RenatoXM/laravel-postmark-webhooks
-[link-tests]: https://github.com/RenatoXM/laravel-postmark-webhooks/actions?query=workflow%3Atests
+[link-packagist]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
+[link-tests]: https://github.com/renatoxm/laravel-postmark-webhooks/actions/workflows/tests.yml?query=workflow%3Atests
 [link-style-ci]: https://styleci.io/repos/149487979
-[link-downloads]: https://packagist.org/packages/RenatoXM/laravel-postmark-webhooks
-[link-author]: https://github.com/RenatoXM
+[link-downloads]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
+[link-author]: https://github.com/renatoxm
 [link-contributors]: ../../contributors
