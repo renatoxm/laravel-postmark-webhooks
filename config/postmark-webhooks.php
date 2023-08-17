@@ -72,4 +72,6 @@ return [
         '50.31.156.77',
     ],
 
+    'postmark-webhooks.disable-middleware' => env('POSTMARK_WEBHOOKS_MIDDLEWARE_DISABLE', false),
+
 ];

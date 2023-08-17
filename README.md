@@ -8,7 +8,7 @@
 [![StyleCI][ico-style-ci]][link-style-ci]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-Postmark can send out several webhooks to *your* application when an event occurs.  
+Postmark can send out several webhooks to _your_ application when an event occurs.  
 This way Postmark is able to immediately notify you when something new occurs.
 
 This package can help you handle those webhooks.
@@ -17,14 +17,14 @@ This package can help you handle those webhooks.
 
 You can install the package via composer:
 
-``` bash
+```bash
 composer require RenatoXM/laravel-postmark-webhooks
 ```
 
 This package will log all incoming webhooks to the database by default.  
 Run the migrations to create a `postmark_webhook_logs` table in the database:
 
-``` bash
+```bash
 php artisan migrate
 ```
 
@@ -34,7 +34,7 @@ php artisan migrate
 
 Visit the [servers](https://account.postmarkapp.com/servers) page on your [Postmark account](https://account.postmarkapp.com/).
 Choose the server you want to setup webhooks for.  
-Go to `settings` > `webhooks` > `add webbook`.  
+Go to `settings` > `webhooks` > `add webbook`.
 
 This package will register a route where Postmark can post their webhooks to: `/api/webhooks/postmark`.
 
@@ -49,6 +49,16 @@ You are ready to receive webhook notifications from Postmark!
 
 This package protects your webhook automatically by only allowing requests from the [IP range](https://postmarkapp.com/support/article/800-ips-for-firewalls#webhooks) that Postmark uses.
 
+## Disabling webhook protection
+
+If you need to test in Development using ngrok to test Postmark webhooks you can disable the webhook entirely. To do that, add `POSTMARK_WEBHOOKS_MIDDLEWARE_DISABLE=true` to your `.env` file.
+
+```env
+POSTMARK_WEBHOOKS_MIDDLEWARE_DISABLE=true
+```
+
+**WARNING:** Do not forget to enable it back in production!
+
 ## Usage
 
 Postmark can send out several event types by posting a webhook.  
@@ -58,8 +68,9 @@ All webhook requests will be logged in the `postmark_webhook_logs` table.
 The table has a `payload` column where the entire payload of the incoming webhook is saved.  
 The ID Postmark assigned to the original message will be saved in the `message_id` column,  
 the event type will be stored in the `record_type` column and the email address as well in the `email` column.
+
 > Note that event types will be converted to `snake_case`.  
-For example `SpamComplaint` will be saved as `spam_complaint`.
+> For example `SpamComplaint` will be saved as `spam_complaint`.
 
 ### Events
 
@@ -135,10 +146,11 @@ You may optionally publish the config file with:
 php artisan vendor:publish --provider="RenatoXM\PostmarkWebhooks\PostmarkWebhooksServiceProvider" --tag="config"
 ```
 
-Within the configuration file you may change the table name being used 
+Within the configuration file you may change the table name being used
 or the Eloquent model being used to save log records to the database.
+
 > If you want to use your own model to save the logs to the database you should extend
-the `RenatoXM\PostmarkWebhooks\PostmarkWebhook` class.
+> the `RenatoXM\PostmarkWebhooks\PostmarkWebhook` class.
 
 You can also exclude one or more event types from being logged to the database.  
 Place the events you want to exclude under the `except` key:
@@ -168,13 +180,13 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Testing
 
-``` bash
+```bash
 $ composer test
 ```
 
 ## Contributing
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md)  for details.
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
@@ -198,7 +210,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-tests]: https://img.shields.io/github/actions/workflow/status/renatoxm/laravel-postmark-webhooks/tests.yml?branch=main
 [ico-style-ci]: https://styleci.io/repos/149487979/shield?branch=main
 [ico-downloads]: https://img.shields.io/packagist/dt/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
-
 [link-packagist]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
 [link-tests]: https://github.com/renatoxm/laravel-postmark-webhooks/actions/workflows/tests.yml
 [link-style-ci]: https://styleci.io/repos/149487979

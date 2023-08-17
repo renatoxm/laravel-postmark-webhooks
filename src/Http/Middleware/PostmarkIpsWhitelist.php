@@ -18,10 +18,18 @@ class PostmarkIpsWhitelist
     public function handle($request, Closure $next)
     {
 
-        if (collect(config('postmark-webhooks.allowlist-ips'))->contains($request->getClientIp())) {
+        if (config('postmark-webhooks.disable-middleware')) {
+
             return $next($request);
+
+        } else {
+
+            if (collect(config('postmark-webhooks.allowlist-ips'))->contains($request->getClientIp())) {
+                return $next($request);
+            }
+
+            return response()->json(['error' => 'Unauthorized'], 401);
         }
 
-        return response()->json(['error' => 'Unauthorized'], 401);
     }
 }
