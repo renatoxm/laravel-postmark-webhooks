@@ -1,5 +1,3 @@
-<p align="center"><a href="https://postmarkapp.com" target="_blank"><img src="https://postmarkapp.com/images/logo.svg" alt="Postmark Inbound" width="240" height="40"></a>
-
 # Handle Postmark webhooks in a Laravel application
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
@@ -208,11 +206,11 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-tests]: https://img.shields.io/github/actions/workflow/status/renatoxm/laravel-postmark-webhooks/tests.yml?branch=main
-[ico-style-ci]: https://styleci.io/repos/149487979/shield?branch=main
+[ico-style-ci]: https://styleci.io/repos/679223058/shield?branch=main
 [ico-downloads]: https://img.shields.io/packagist/dt/renatoxm/laravel-postmark-webhooks.svg?style=flat-square
 [link-packagist]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
 [link-tests]: https://github.com/renatoxm/laravel-postmark-webhooks/actions/workflows/tests.yml
-[link-style-ci]: https://styleci.io/repos/149487979
+[link-style-ci]: https://styleci.io/repos/679223058
 [link-downloads]: https://packagist.org/packages/renatoxm/laravel-postmark-webhooks
 [link-author]: https://github.com/renatoxm
 [link-contributors]: ../../contributors

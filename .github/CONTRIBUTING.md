@@ -4,7 +4,6 @@ Contributions are **welcome** and will be fully **credited**.
 
 We accept contributions via Pull Requests on [Github](https://github.com/RenatoXM/laravel-postmark-webhooks).
 
-
 ## Pull Requests
 
 - **[PSR-2 Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)** - The easiest way to apply the conventions is to install [PHP Code Sniffer](https://pear.php.net/package/PHP_CodeSniffer).
@@ -21,12 +20,10 @@ We accept contributions via Pull Requests on [Github](https://github.com/RenatoX
 
 - **Send coherent history** - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please [squash them](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) before submitting.
 
-
 ## Running Tests
 
 ``` bash
-$ composer test
+composer test
 ```
 
-
-**Happy coding**!
+**Happy coding!**
