@@ -2,8 +2,8 @@
 
 namespace RenatoXM\PostmarkWebhooks\Tests;
 
-use RenatoXM\PostmarkWebhooks\PostmarkWebhooksServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
+use RenatoXM\PostmarkWebhooks\PostmarkWebhooksServiceProvider;
 
 abstract class TestCase extends Orchestra
 {
