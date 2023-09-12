@@ -1,6 +1,6 @@
 <?php
 
-namespace RenatoXM\PostmarkWebhooks\Tests\Database;
+namespace RenatoXM\PostmarkWebhooks\Tests\Unit;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use RenatoXM\PostmarkWebhooks\PostmarkWebhook;
