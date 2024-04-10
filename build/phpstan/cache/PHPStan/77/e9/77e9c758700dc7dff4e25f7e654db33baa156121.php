@@ -32,7 +32,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/theseer/tokenizer/src/Tokenizer.php' => 
     array (
-      0 => '8bf01e80d8fbc1e4c41f171333f139abdfa0080e',
+      0 => 'c917fe54262f1eff4e50e00a4cb3c436dffa88d8',
       1 => 
       array (
         0 => 'theseer\\tokenizer\\tokenizer',
@@ -76,7 +76,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/theseer/tokenizer/src/XMLSerializer.php' => 
     array (
-      0 => '9b4c36d365f4bbfd2d21f18e29dc129eb914a869',
+      0 => 'c244e71221bcdc26b37e6007934d8d5a12c96e67',
       1 => 
       array (
         0 => 'theseer\\tokenizer\\xmlserializer',

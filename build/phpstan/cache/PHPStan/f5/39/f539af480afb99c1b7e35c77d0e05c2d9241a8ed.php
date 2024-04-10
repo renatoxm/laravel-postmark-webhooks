@@ -49,7 +49,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-invoker/src/Invoker.php' => 
     array (
-      0 => 'fc3b867dc48285ca6d28cddf8e4935233b781889',
+      0 => '62c50438c7555ef4517c49f03c0a4f467b27d2de',
       1 => 
       array (
         0 => 'sebastianbergmann\\invoker\\invoker',

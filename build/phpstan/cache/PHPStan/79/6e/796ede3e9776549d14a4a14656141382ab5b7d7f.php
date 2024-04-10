@@ -49,7 +49,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-text-template/src/Template.php' => 
     array (
-      0 => '2f2d2c29ea0b4f5ce1f4630dff882adea6bdf2b5',
+      0 => '233ef3b301d36df49e91cfeba56f2160912cf63d',
       1 => 
       array (
         0 => 'sebastianbergmann\\template\\template',

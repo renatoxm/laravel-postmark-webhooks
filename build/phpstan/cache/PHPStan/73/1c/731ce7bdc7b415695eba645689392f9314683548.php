@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Helpers.php' => 
     array (
-      0 => 'd086a12d54c6fef2043c585986756eff77f15228',
+      0 => '0f8d327f5a4b38e63b15474096cdda91292bb20e',
       1 => 
       array (
         0 => 'nette\\schema\\helpers',
@@ -18,6 +18,11 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         1 => 'nette\\schema\\getpropertytype',
         2 => 'nette\\schema\\parseannotation',
         3 => 'nette\\schema\\formatvalue',
+        4 => 'nette\\schema\\validatetype',
+        5 => 'nette\\schema\\validaterange',
+        6 => 'nette\\schema\\isinrange',
+        7 => 'nette\\schema\\validatepattern',
+        8 => 'nette\\schema\\getcaststrategy',
       ),
       3 => 
       array (
@@ -25,7 +30,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Elements/Structure.php' => 
     array (
-      0 => '5ec3cdfaded406a5f1fec62ad5a3a4999cedcba6',
+      0 => '9d0ed89ed211ddba5f1f319e4ac55706cb80f036',
       1 => 
       array (
         0 => 'nette\\schema\\elements\\structure',
@@ -41,7 +46,8 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         6 => 'nette\\schema\\elements\\normalize',
         7 => 'nette\\schema\\elements\\merge',
         8 => 'nette\\schema\\elements\\complete',
-        9 => 'nette\\schema\\elements\\completedefault',
+        9 => 'nette\\schema\\elements\\validateitems',
+        10 => 'nette\\schema\\elements\\completedefault',
       ),
       3 => 
       array (
@@ -49,7 +55,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Elements/Base.php' => 
     array (
-      0 => 'b847a91a22bcf8d6167c38c673db2e21a484d90a',
+      0 => '5f17f0632b72113e75e11c4a3320bcf02efe9703',
       1 => 
       array (
         0 => 'nette\\schema\\elements\\base',
@@ -60,15 +66,16 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         1 => 'nette\\schema\\elements\\required',
         2 => 'nette\\schema\\elements\\before',
         3 => 'nette\\schema\\elements\\castto',
-        4 => 'nette\\schema\\elements\\assert',
-        5 => 'nette\\schema\\elements\\deprecated',
-        6 => 'nette\\schema\\elements\\completedefault',
-        7 => 'nette\\schema\\elements\\donormalize',
-        8 => 'nette\\schema\\elements\\dodeprecation',
-        9 => 'nette\\schema\\elements\\dovalidate',
-        10 => 'nette\\schema\\elements\\dovalidaterange',
-        11 => 'nette\\schema\\elements\\isinrange',
-        12 => 'nette\\schema\\elements\\dofinalize',
+        4 => 'nette\\schema\\elements\\transform',
+        5 => 'nette\\schema\\elements\\assert',
+        6 => 'nette\\schema\\elements\\deprecated',
+        7 => 'nette\\schema\\elements\\completedefault',
+        8 => 'nette\\schema\\elements\\donormalize',
+        9 => 'nette\\schema\\elements\\dodeprecation',
+        10 => 'nette\\schema\\elements\\dotransform',
+        11 => 'nette\\schema\\elements\\dovalidate',
+        12 => 'nette\\schema\\elements\\dovalidaterange',
+        13 => 'nette\\schema\\elements\\dofinalize',
       ),
       3 => 
       array (
@@ -76,7 +83,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Elements/AnyOf.php' => 
     array (
-      0 => 'f787bcb4bde7ebfc93eb010e1b1799583c3255e1',
+      0 => '414710a9e3262ad6d561e713773c3e268f34b44f',
       1 => 
       array (
         0 => 'nette\\schema\\elements\\anyof',
@@ -90,7 +97,8 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         4 => 'nette\\schema\\elements\\normalize',
         5 => 'nette\\schema\\elements\\merge',
         6 => 'nette\\schema\\elements\\complete',
-        7 => 'nette\\schema\\elements\\completedefault',
+        7 => 'nette\\schema\\elements\\findalternative',
+        8 => 'nette\\schema\\elements\\completedefault',
       ),
       3 => 
       array (
@@ -98,7 +106,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Elements/Type.php' => 
     array (
-      0 => 'c40ed05638ad13393bf9fe1ce84f7391c8f969cc',
+      0 => 'ecbfc7c356f4ca536eb4b18137a081e4bb08197e',
       1 => 
       array (
         0 => 'nette\\schema\\elements\\type',
@@ -116,6 +124,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         8 => 'nette\\schema\\elements\\normalize',
         9 => 'nette\\schema\\elements\\merge',
         10 => 'nette\\schema\\elements\\complete',
+        11 => 'nette\\schema\\elements\\validateitems',
       ),
       3 => 
       array (
@@ -137,7 +146,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/ValidationException.php' => 
     array (
-      0 => '0c088b4b9863c24edc6c4b82cf667af12bd2cd73',
+      0 => 'debe8d841f9dc68cc92527f0d6fb30ddc884d39a',
       1 => 
       array (
         0 => 'nette\\schema\\validationexception',
@@ -154,7 +163,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Expect.php' => 
     array (
-      0 => '785a5d12e311eb11dfdf8929ded85a13ab3eabae',
+      0 => 'd4d16387148bee886e0ebbf191b467d662d631f1',
       1 => 
       array (
         0 => 'nette\\schema\\expect',
@@ -175,7 +184,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Context.php' => 
     array (
-      0 => '9859c5c4a819c645edf3ab5e02e94de73c02efd9',
+      0 => 'a1f0b34eac134ead52282f3747a21b7d735c11d9',
       1 => 
       array (
         0 => 'nette\\schema\\context',
@@ -184,6 +193,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
         0 => 'nette\\schema\\adderror',
         1 => 'nette\\schema\\addwarning',
+        2 => 'nette\\schema\\createchecker',
       ),
       3 => 
       array (
@@ -191,7 +201,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Processor.php' => 
     array (
-      0 => '3f6b7cd4311e20064cd066cb3553895d6214e279',
+      0 => 'efa684244f9e6f22300316afa634a0102d8973ad',
       1 => 
       array (
         0 => 'nette\\schema\\processor',
@@ -211,7 +221,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Message.php' => 
     array (
-      0 => '3073c6cee812288f854882ccbb5704940ff98c2b',
+      0 => '2525526ec0028931fc3d2ca20207a9060c564059',
       1 => 
       array (
         0 => 'nette\\schema\\message',
@@ -227,7 +237,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/schema/src/Schema/Schema.php' => 
     array (
-      0 => '864de8681d560b1e41b2e8d2c1e92bf1e1a8d8ad',
+      0 => '24a8422581be56a210c0a4c610af3aeaaeca779a',
       1 => 
       array (
         0 => 'nette\\schema\\schema',

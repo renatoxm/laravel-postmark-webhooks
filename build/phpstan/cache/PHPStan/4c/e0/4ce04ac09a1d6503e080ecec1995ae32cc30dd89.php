@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/version/src/Version.php' => 
     array (
-      0 => '2ea37729b8f6fe65719d5a9555b85ea806e41a92',
+      0 => '7697de3cdb48400ec6203429640c8eb83da23251',
       1 => 
       array (
         0 => 'sebastianbergmann\\version',
@@ -15,8 +15,9 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\__construct',
-        1 => 'sebastianbergmann\\getversion',
-        2 => 'sebastianbergmann\\getgitinformation',
+        1 => 'sebastianbergmann\\asstring',
+        2 => 'sebastianbergmann\\generate',
+        3 => 'sebastianbergmann\\getgitinformation',
       ),
       3 => 
       array (

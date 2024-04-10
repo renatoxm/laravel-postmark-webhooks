@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-file-iterator/src/Iterator.php' => 
     array (
-      0 => '3bb17d3918f8fd5619025b1d1d721be260de0095',
+      0 => '14ff05aa1d9dbf1cc430fff2d2e2e9a8c55f728b',
       1 => 
       array (
         0 => 'sebastianbergmann\\fileiterator\\iterator',
@@ -27,7 +27,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-file-iterator/src/Factory.php' => 
     array (
-      0 => '906d1de2b241b0787a515e3d09b5639a504cb43e',
+      0 => '8d834ed6a74c4ee962bb783129a782bee34b6c95',
       1 => 
       array (
         0 => 'sebastianbergmann\\fileiterator\\factory',
@@ -35,7 +35,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\fileiterator\\getfileiterator',
-        1 => 'sebastianbergmann\\fileiterator\\getpathsafterresolvingwildcards',
+        1 => 'sebastianbergmann\\fileiterator\\resolvewildcards',
       ),
       3 => 
       array (
@@ -43,7 +43,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-file-iterator/src/Facade.php' => 
     array (
-      0 => '43345977fa48f40198af6ad2710aa4db119cb7c5',
+      0 => '20b80e3e406ff3173e725a8638fcae56f2aff2c2',
       1 => 
       array (
         0 => 'sebastianbergmann\\fileiterator\\facade',
@@ -51,7 +51,25 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\fileiterator\\getfilesasarray',
-        1 => 'sebastianbergmann\\fileiterator\\getcommonpath',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-file-iterator/src/ExcludeIterator.php' => 
+    array (
+      0 => 'c057c310e75af02eaa00ce75582b3f590ddb803d',
+      1 => 
+      array (
+        0 => 'sebastianbergmann\\fileiterator\\excludeiterator',
+      ),
+      2 => 
+      array (
+        0 => 'sebastianbergmann\\fileiterator\\__construct',
+        1 => 'sebastianbergmann\\fileiterator\\accept',
+        2 => 'sebastianbergmann\\fileiterator\\haschildren',
+        3 => 'sebastianbergmann\\fileiterator\\getchildren',
+        4 => 'sebastianbergmann\\fileiterator\\getinneriterator',
       ),
       3 => 
       array (

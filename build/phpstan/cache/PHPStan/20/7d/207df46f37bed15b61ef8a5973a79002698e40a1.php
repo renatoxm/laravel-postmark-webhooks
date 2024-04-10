@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/exporter/src/Exporter.php' => 
     array (
-      0 => '7b2bbe56376720fe0921827446d32d6ea55a511d',
+      0 => '4f760b2dfee7e417706341a80ed8968ee6672e32',
       1 => 
       array (
         0 => 'sebastianbergmann\\exporter\\exporter',

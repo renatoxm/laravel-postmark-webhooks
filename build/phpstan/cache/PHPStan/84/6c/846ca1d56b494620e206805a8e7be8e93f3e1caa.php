@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/InvalidUrlException.php' => 
     array (
-      0 => '310a0c2d604944d1abdaa004ceef9ae4728f2c36',
+      0 => '5f3829973998ee02f339bfc2dc2b0b3b12c8b306',
       1 => 
       array (
         0 => 'phario\\manifest\\invalidurlexception',
@@ -21,7 +21,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ManifestDocumentException.php' => 
     array (
-      0 => '614e1623d8c505cc435f8dbf0f6e92c5b60fa636',
+      0 => 'f0a9a3c6d1a4e1a2fe17b15b458098fec19a7649',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestdocumentexception',
@@ -35,7 +35,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/Exception.php' => 
     array (
-      0 => '45815fa7400285bd13d0c13151822954386e28e8',
+      0 => '456e70315a2bf3c9cdbbe707cb915b49c34562ca',
       1 => 
       array (
         0 => 'phario\\manifest\\exception',
@@ -49,7 +49,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ManifestDocumentMapperException.php' => 
     array (
-      0 => 'b789bd406a84f72dd49956ce6857964c22e041d0',
+      0 => '4eaff5364c264e932616a528b12152514d4476a4',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestdocumentmapperexception',
@@ -63,7 +63,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ManifestLoaderException.php' => 
     array (
-      0 => 'b3ca3135e23a80f9c20ae67a21da02baa8a6bf52',
+      0 => '280709d0018d8c65f0ab2a76b50200e1297dfea6',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestloaderexception',
@@ -77,7 +77,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ElementCollectionException.php' => 
     array (
-      0 => 'aa72e8e2a7ab496e0bc652f507d7c0bcd39f3304',
+      0 => '56abfecae7166f594af97d8c2fb992986df0fa66',
       1 => 
       array (
         0 => 'phario\\manifest\\elementcollectionexception',
@@ -91,7 +91,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ManifestElementException.php' => 
     array (
-      0 => 'ffe4e6d55bdec3f3c79d23f385a39bea42b4444e',
+      0 => 'a478db1db4a8f6883219a443eb000a0546500876',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestelementexception',
@@ -105,7 +105,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/ManifestDocumentLoadingException.php' => 
     array (
-      0 => 'd76a6cd1700c233e99c773cd78bb73d79a46e9fb',
+      0 => '67f23286df445a69a821f28df8049899e7c5a190',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestdocumentloadingexception',
@@ -121,7 +121,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/InvalidApplicationNameException.php' => 
     array (
-      0 => '01434d62f97dd75fe2e543ef07ebade0d2232821',
+      0 => '87d442f19a4229e9425b13cc22438fa5fa828db2',
       1 => 
       array (
         0 => 'phario\\manifest\\invalidapplicationnameexception',
@@ -135,7 +135,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/InvalidEmailException.php' => 
     array (
-      0 => 'd14d6ac5938576b544300eb0d6184c54702b8b4e',
+      0 => '19dda893ff582f4a491394e6ba428286414a800d',
       1 => 
       array (
         0 => 'phario\\manifest\\invalidemailexception',
@@ -149,7 +149,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/ManifestDocumentMapper.php' => 
     array (
-      0 => '546879342eff5a2412ad12da10baa4fc00e7d26e',
+      0 => '1bc21e8d302c08b4af060481b9ccd627445f480a',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestdocumentmapper',
@@ -169,7 +169,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Author.php' => 
     array (
-      0 => '1d6ad260ed3064247c90cf83e0ca6c927b785ad8',
+      0 => '55a18f897867cce128f41864b9664cc32271b15f',
       1 => 
       array (
         0 => 'phario\\manifest\\author',
@@ -179,7 +179,8 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         0 => 'phario\\manifest\\__construct',
         1 => 'phario\\manifest\\asstring',
         2 => 'phario\\manifest\\getname',
-        3 => 'phario\\manifest\\getemail',
+        3 => 'phario\\manifest\\hasemail',
+        4 => 'phario\\manifest\\getemail',
       ),
       3 => 
       array (
@@ -187,7 +188,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/BundledComponentCollectionIterator.php' => 
     array (
-      0 => 'a5e1a41ad78d588149c83f0d546dd77703e5ac91',
+      0 => 'dac56785e130b4a51b2bc06ac1eab11ae6c27d7f',
       1 => 
       array (
         0 => 'phario\\manifest\\bundledcomponentcollectioniterator',
@@ -207,7 +208,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/CopyrightInformation.php' => 
     array (
-      0 => 'cb438e5cf01d0f7cd6e2d228d39751a3ee570fb9',
+      0 => '148cf8cd44a6e765c14b98c82a985aa442d32234',
       1 => 
       array (
         0 => 'phario\\manifest\\copyrightinformation',
@@ -224,7 +225,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Library.php' => 
     array (
-      0 => '476bff589cd6bd3097e912ef1352e2513add0db0',
+      0 => 'b9f514f0833c69bfd34defce801dfe621e30ee7b',
       1 => 
       array (
         0 => 'phario\\manifest\\library',
@@ -239,7 +240,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/AuthorCollection.php' => 
     array (
-      0 => '733253ef4a114cb9a8c4245a1f8328622a132011',
+      0 => '96fb640e67cac90da0d73666c57af789918e3e0c',
       1 => 
       array (
         0 => 'phario\\manifest\\authorcollection',
@@ -257,7 +258,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/PhpVersionRequirement.php' => 
     array (
-      0 => '1493cb969d9b659ca30fdf0ddc00e198c1e750a2',
+      0 => '589b4bcdfff40e61638ecd681ac2e0fdcdd80793',
       1 => 
       array (
         0 => 'phario\\manifest\\phpversionrequirement',
@@ -273,7 +274,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/BundledComponentCollection.php' => 
     array (
-      0 => 'a073f193341dbb6c81faf76b341698d015f80705',
+      0 => 'f17eb75212ef6057872535b531de6d5b1717cc5c',
       1 => 
       array (
         0 => 'phario\\manifest\\bundledcomponentcollection',
@@ -291,7 +292,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Requirement.php' => 
     array (
-      0 => '8d5ba9a0ca84ffac3aafc44e493ec043ca979974',
+      0 => '49a53487001667fdb73eb8a08d61276ab60d5463',
       1 => 
       array (
         0 => 'phario\\manifest\\requirement',
@@ -305,7 +306,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/AuthorCollectionIterator.php' => 
     array (
-      0 => 'c94366da99178313b3aec3b9b54b8beb4286317e',
+      0 => 'd680e39a6304af6327d9f88ff5cfb27ea13156a3',
       1 => 
       array (
         0 => 'phario\\manifest\\authorcollectioniterator',
@@ -325,7 +326,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/PhpExtensionRequirement.php' => 
     array (
-      0 => 'abd2316cee6291fd364e1f491930899ed23d6587',
+      0 => '812db9b82bf3018271075af363b374a5f16dc5e4',
       1 => 
       array (
         0 => 'phario\\manifest\\phpextensionrequirement',
@@ -341,7 +342,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Url.php' => 
     array (
-      0 => 'f65f93764b94a700a61576c4d36acc9f0fb0004b',
+      0 => 'e4f2e6c67098ec7ba62102cffc7e049c57e1c10c',
       1 => 
       array (
         0 => 'phario\\manifest\\url',
@@ -358,7 +359,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Email.php' => 
     array (
-      0 => 'c878fa9103021b6f76ca4d85e410e8fec72e32c1',
+      0 => '63d916ed4e74bd595a1d493d48dc4f2f371ed19d',
       1 => 
       array (
         0 => 'phario\\manifest\\email',
@@ -375,7 +376,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/ApplicationName.php' => 
     array (
-      0 => '353795cd68fdeb7e1903de1620273e4dcba4f8f3',
+      0 => '3bb7ab1a774c4f98cf64c98f1a48efdbd7160bef',
       1 => 
       array (
         0 => 'phario\\manifest\\applicationname',
@@ -393,7 +394,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/RequirementCollection.php' => 
     array (
-      0 => '6933163f19f575a301c405c7343f925706c0baa8',
+      0 => '793303ae56df80a464fa91209faf5aff6ba94182',
       1 => 
       array (
         0 => 'phario\\manifest\\requirementcollection',
@@ -411,7 +412,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Application.php' => 
     array (
-      0 => '7298bf56cd1161707d2df1e6127250a19d97988b',
+      0 => '06447031ef7ac0849754e58edae536dd1e629e81',
       1 => 
       array (
         0 => 'phario\\manifest\\application',
@@ -426,7 +427,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Extension.php' => 
     array (
-      0 => '906e445af5fb664b5aaae635208bb41f568f7cb3',
+      0 => '4a74ef0f6e6f4775c4c5e36dd08211b3e974f754',
       1 => 
       array (
         0 => 'phario\\manifest\\extension',
@@ -446,7 +447,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/RequirementCollectionIterator.php' => 
     array (
-      0 => 'b3effae5b3be3e8b186155c934e8b688fc254eb5',
+      0 => '56b68dd6378f3921dcc067749c42085822cdecc1',
       1 => 
       array (
         0 => 'phario\\manifest\\requirementcollectioniterator',
@@ -466,7 +467,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Manifest.php' => 
     array (
-      0 => '873a873cadae3e82e442713a90b695fc7d367b4b',
+      0 => 'fbc0777620ac7a7a6c9b4dff739977917282c625',
       1 => 
       array (
         0 => 'phario\\manifest\\manifest',
@@ -491,7 +492,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/Type.php' => 
     array (
-      0 => 'd74396aecfdfdeaaf2a589971080850e3261b7e7',
+      0 => 'ebd205ced6e357993f7aafbcd4a106f5dee20cd4',
       1 => 
       array (
         0 => 'phario\\manifest\\type',
@@ -511,7 +512,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/License.php' => 
     array (
-      0 => '795173223306d6e640f0d72f9be392f1bb89341a',
+      0 => '40e4c6c32047d7ebebeb5c797aef3616787b6fed',
       1 => 
       array (
         0 => 'phario\\manifest\\license',
@@ -528,7 +529,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/values/BundledComponent.php' => 
     array (
-      0 => 'bb533a1a8c839e3243784318a8e81086abe7ef57',
+      0 => '38199fce4165b953005fd3d84994e8959a6c6a64',
       1 => 
       array (
         0 => 'phario\\manifest\\bundledcomponent',
@@ -545,7 +546,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ManifestElement.php' => 
     array (
-      0 => '0e561c52eec72e7e97ca45d050707058fcf7ec2b',
+      0 => 'b25bc3045bdfc4e0fc33860ee1321bdef0a3aa63',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestelement',
@@ -554,9 +555,10 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
         0 => 'phario\\manifest\\__construct',
         1 => 'phario\\manifest\\getattributevalue',
-        2 => 'phario\\manifest\\getchildbyname',
-        3 => 'phario\\manifest\\getchildrenbyname',
-        4 => 'phario\\manifest\\haschild',
+        2 => 'phario\\manifest\\hasattribute',
+        3 => 'phario\\manifest\\getchildbyname',
+        4 => 'phario\\manifest\\getchildrenbyname',
+        5 => 'phario\\manifest\\haschild',
       ),
       3 => 
       array (
@@ -564,7 +566,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/PhpElement.php' => 
     array (
-      0 => 'adb9ffcf96bcbc321d52eb359fc9d8731b3ae354',
+      0 => '792e281bfea9b182f000984ba4524eeaef4845bb',
       1 => 
       array (
         0 => 'phario\\manifest\\phpelement',
@@ -581,7 +583,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/CopyrightElement.php' => 
     array (
-      0 => '7ff253469cc80ed431c333f07fa99ce5562724e3',
+      0 => 'd01043027c0e7b5fd73596813a568446c913f620',
       1 => 
       array (
         0 => 'phario\\manifest\\copyrightelement',
@@ -597,7 +599,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php' => 
     array (
-      0 => '06ab244e47d139588a0bf251188446685c168299',
+      0 => '1ff26f3fa73beb5afe705b5bab7dcd8ec62206e2',
       1 => 
       array (
         0 => 'phario\\manifest\\authorelementcollection',
@@ -612,7 +614,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/LicenseElement.php' => 
     array (
-      0 => 'fa8083ff105febb607da5f1106365ac3b940c19d',
+      0 => '83fa93aca916c05e9ac53ffb94580fe7cd887cf5',
       1 => 
       array (
         0 => 'phario\\manifest\\licenseelement',
@@ -628,7 +630,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ManifestDocument.php' => 
     array (
-      0 => 'a0fadd26334dd1fdec2a031685482dae6e180916',
+      0 => 'e44d0e1be939cd8877d80c915cfadf21f8461644',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestdocument',
@@ -652,7 +654,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ExtensionElement.php' => 
     array (
-      0 => 'ebf690405efe60ceefdfde860bb9a3c3e98947b2',
+      0 => '58a7c3f2631789f243661cde8c034a118c3248fa',
       1 => 
       array (
         0 => 'phario\\manifest\\extensionelement',
@@ -668,7 +670,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ExtElement.php' => 
     array (
-      0 => 'fd033f673cddaaae4ca7cb291cba168d31d51e1d',
+      0 => '7ea8e93026621771fe55c348f70ea489166ee528',
       1 => 
       array (
         0 => 'phario\\manifest\\extelement',
@@ -683,7 +685,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ComponentElement.php' => 
     array (
-      0 => '0ff7dbd4c7c0a02826d3fdfe088b85aa0868f012',
+      0 => 'edc677abdbecd27c31ec0586cfcccef9a8b60f24',
       1 => 
       array (
         0 => 'phario\\manifest\\componentelement',
@@ -699,7 +701,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ContainsElement.php' => 
     array (
-      0 => '72ce53948a186e6e4fa09b860ce9055c54a27dec',
+      0 => 'fbc43ebcfa6562929a2d1dbed387fc466f5709de',
       1 => 
       array (
         0 => 'phario\\manifest\\containselement',
@@ -717,7 +719,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/AuthorElement.php' => 
     array (
-      0 => '07695ab2bb0d9dd42ba0f30bc8e976001c277299',
+      0 => '6e82b49f997b391f824a2106f7424de070be806a',
       1 => 
       array (
         0 => 'phario\\manifest\\authorelement',
@@ -726,6 +728,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
         0 => 'phario\\manifest\\getname',
         1 => 'phario\\manifest\\getemail',
+        2 => 'phario\\manifest\\hasemail',
       ),
       3 => 
       array (
@@ -733,7 +736,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/RequiresElement.php' => 
     array (
-      0 => 'd0ae4883ad20e80c5fe2886ac1f9292fa71ddb89',
+      0 => 'b73126f1c54b58214ce5042e46a89069a85f0bc6',
       1 => 
       array (
         0 => 'phario\\manifest\\requireselement',
@@ -748,7 +751,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php' => 
     array (
-      0 => 'bea47e15237dd9ba2cae95e058db0e5a188b5285',
+      0 => '6e2aacb95068e468a753fae0e362eef6f6fb21ad',
       1 => 
       array (
         0 => 'phario\\manifest\\componentelementcollection',
@@ -763,7 +766,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/BundlesElement.php' => 
     array (
-      0 => '752c46c7495134ae9dde821532d0669ed9c8445f',
+      0 => '465e2d00393cca9f7a403b6cb29c6c9ac5220b7d',
       1 => 
       array (
         0 => 'phario\\manifest\\bundleselement',
@@ -778,7 +781,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ExtElementCollection.php' => 
     array (
-      0 => '26e6ba4a4f8a0b64389e8b4e373140ac6652a1a2',
+      0 => '92122645f5c18247b6820b0e1c082c3afe792fca',
       1 => 
       array (
         0 => 'phario\\manifest\\extelementcollection',
@@ -793,7 +796,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/xml/ElementCollection.php' => 
     array (
-      0 => 'da0d3d314c0f68adea01c5831b6487a633587643',
+      0 => '4c9d3243758e99f4320ed518542b8b43ea61be6e',
       1 => 
       array (
         0 => 'phario\\manifest\\elementcollection',
@@ -815,7 +818,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/ManifestSerializer.php' => 
     array (
-      0 => '0bdc54686c9b5dae92a6e62ed1f7ffbb9620932e',
+      0 => '2b5e0c2dfa9dd7e05f7c722f232b586b1e11cd54',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestserializer',
@@ -838,7 +841,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/ManifestLoader.php' => 
     array (
-      0 => '16d4bf928b03a3b86099832dc4b23842f9fd0a8a',
+      0 => '49b9e9105ef820ed5441756d35d5c94c4d4588bb',
       1 => 
       array (
         0 => 'phario\\manifest\\manifestloader',
@@ -848,6 +851,20 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         0 => 'phario\\manifest\\fromfile',
         1 => 'phario\\manifest\\fromphar',
         2 => 'phario\\manifest\\fromstring',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phar-io/manifest/src/exceptions/NoEmailAddressException.php' => 
+    array (
+      0 => 'a4f08c6ae9c1c46d47199c389944cc087503596a',
+      1 => 
+      array (
+        0 => 'phario\\manifest\\noemailaddressexception',
+      ),
+      2 => 
+      array (
       ),
       3 => 
       array (

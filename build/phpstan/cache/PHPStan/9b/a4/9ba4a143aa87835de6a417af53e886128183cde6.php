@@ -35,7 +35,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/global-state/src/CodeExporter.php' => 
     array (
-      0 => '77373ed575e0ba333924c0d3092f7ac879fad21e',
+      0 => 'bebfea380f88c5e6b50eb1d313aecd5499011407',
       1 => 
       array (
         0 => 'sebastianbergmann\\globalstate\\codeexporter',
@@ -54,7 +54,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/global-state/src/ExcludeList.php' => 
     array (
-      0 => 'ae0b3db783c86b8a69f6eb72423f69de949a3817',
+      0 => '381b630f4622576edf7caa161c367c89a9a412bd',
       1 => 
       array (
         0 => 'sebastianbergmann\\globalstate\\excludelist',
@@ -66,9 +66,9 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         2 => 'sebastianbergmann\\globalstate\\addsubclassesof',
         3 => 'sebastianbergmann\\globalstate\\addimplementorsof',
         4 => 'sebastianbergmann\\globalstate\\addclassnameprefix',
-        5 => 'sebastianbergmann\\globalstate\\addstaticattribute',
+        5 => 'sebastianbergmann\\globalstate\\addstaticproperty',
         6 => 'sebastianbergmann\\globalstate\\isglobalvariableexcluded',
-        7 => 'sebastianbergmann\\globalstate\\isstaticattributeexcluded',
+        7 => 'sebastianbergmann\\globalstate\\isstaticpropertyexcluded',
       ),
       3 => 
       array (
@@ -76,17 +76,16 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/global-state/src/Restorer.php' => 
     array (
-      0 => '5390a2c037518140b60c67adbfba3e5dca959431',
+      0 => '2a264bed5352a9804d5ea265898bedfdf0adb9c9',
       1 => 
       array (
         0 => 'sebastianbergmann\\globalstate\\restorer',
       ),
       2 => 
       array (
-        0 => 'sebastianbergmann\\globalstate\\restorefunctions',
-        1 => 'sebastianbergmann\\globalstate\\restoreglobalvariables',
-        2 => 'sebastianbergmann\\globalstate\\restorestaticattributes',
-        3 => 'sebastianbergmann\\globalstate\\restoresuperglobalarray',
+        0 => 'sebastianbergmann\\globalstate\\restoreglobalvariables',
+        1 => 'sebastianbergmann\\globalstate\\restorestaticproperties',
+        2 => 'sebastianbergmann\\globalstate\\restoresuperglobalarray',
       ),
       3 => 
       array (
@@ -94,7 +93,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/global-state/src/Snapshot.php' => 
     array (
-      0 => 'a0b44340d2935cf65be12682c4586db14042a5a7',
+      0 => '3dd6c0e5aa115c5d67c3e26a4cca21a3a26cffa8',
       1 => 
       array (
         0 => 'sebastianbergmann\\globalstate\\snapshot',
@@ -106,7 +105,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         2 => 'sebastianbergmann\\globalstate\\globalvariables',
         3 => 'sebastianbergmann\\globalstate\\superglobalvariables',
         4 => 'sebastianbergmann\\globalstate\\superglobalarrays',
-        5 => 'sebastianbergmann\\globalstate\\staticattributes',
+        5 => 'sebastianbergmann\\globalstate\\staticproperties',
         6 => 'sebastianbergmann\\globalstate\\inisettings',
         7 => 'sebastianbergmann\\globalstate\\includedfiles',
         8 => 'sebastianbergmann\\globalstate\\constants',
@@ -120,7 +119,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         16 => 'sebastianbergmann\\globalstate\\snapshotinterfaces',
         17 => 'sebastianbergmann\\globalstate\\snapshotglobals',
         18 => 'sebastianbergmann\\globalstate\\snapshotsuperglobalarray',
-        19 => 'sebastianbergmann\\globalstate\\snapshotstaticattributes',
+        19 => 'sebastianbergmann\\globalstate\\snapshotstaticproperties',
         20 => 'sebastianbergmann\\globalstate\\setupsuperglobalarrays',
         21 => 'sebastianbergmann\\globalstate\\canbeserialized',
         22 => 'sebastianbergmann\\globalstate\\enumerateobjectsandresources',

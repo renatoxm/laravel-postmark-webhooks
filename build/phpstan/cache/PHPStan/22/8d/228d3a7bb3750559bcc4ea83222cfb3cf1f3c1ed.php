@@ -49,7 +49,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-timer/src/ResourceUsageFormatter.php' => 
     array (
-      0 => '11134ff265b88c15d4e896b8f7ce2c9817f4c993',
+      0 => '0ce399b2ef615981a27e3cc61ff5792f98f35c6e',
       1 => 
       array (
         0 => 'sebastianbergmann\\timer\\resourceusageformatter',
@@ -66,7 +66,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-timer/src/Timer.php' => 
     array (
-      0 => '9535486372f1df82793648e43d4dbcf1aa001fe2',
+      0 => '490dfcbeea3ca93c1467e0f60d849d5b54a90335',
       1 => 
       array (
         0 => 'sebastianbergmann\\timer\\timer',
@@ -82,7 +82,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/phpunit/php-timer/src/Duration.php' => 
     array (
-      0 => 'bdcd6e0798baf89e3d3acb3bc283d3105ab5f252',
+      0 => '966984e5f526616066b964acf0a56b21dc26d760',
       1 => 
       array (
         0 => 'sebastianbergmann\\timer\\duration',

@@ -27,7 +27,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/StaticClass.php' => 
     array (
-      0 => '51db2bc36721208770419074477458848614b9ed',
+      0 => '2d40c3a3019f48cf7ba4d23f015e8391db85b322',
       1 => 
       array (
         0 => 'nette\\staticclass',
@@ -142,7 +142,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Validators.php' => 
     array (
-      0 => 'fa6cdc99a6b8bab095d74a68c95294c874fcceb7',
+      0 => '13d64e6f7d6bbad881932790d34eb71afaa9e659',
       1 => 
       array (
         0 => 'nette\\utils\\validators',
@@ -177,7 +177,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/FileSystem.php' => 
     array (
-      0 => '510fc4e2ecf0c25081f338c00f82813cac40c33a',
+      0 => '0e49655d2ce22192ea7ebaf636dcab0cbe2a2aa5',
       1 => 
       array (
         0 => 'nette\\utils\\filesystem',
@@ -205,7 +205,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Callback.php' => 
     array (
-      0 => '263f426798dea50c8ba90bcc1cc8606a92b37389',
+      0 => 'e1a34dd91f0edf48948435f1ac17167d0b4672ac',
       1 => 
       array (
         0 => 'nette\\utils\\callback',
@@ -225,7 +225,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Finder.php' => 
     array (
-      0 => '2d71ff726b8b674ba202ae0e9eee5c187deb5952',
+      0 => '621b06ebaf68a9e0e67acee82d84e4afa821a3ef',
       1 => 
       array (
         0 => 'nette\\utils\\finder',
@@ -289,7 +289,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Random.php' => 
     array (
-      0 => '2fa371276729aca49f3b10e8b13cfdbd732266ea',
+      0 => '2aab86d308ae8ffb12a0ffd62540e2e227bc0e87',
       1 => 
       array (
         0 => 'nette\\utils\\random',
@@ -320,7 +320,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Strings.php' => 
     array (
-      0 => '7eedf29829b4b8ff6ce8e7ff23aba8971b4deebe',
+      0 => '75cb38b677895a3a76242a5f609f0aa0aaa7853e',
       1 => 
       array (
         0 => 'nette\\utils\\strings',
@@ -372,7 +372,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/DateTime.php' => 
     array (
-      0 => 'e13d2c8c814dfde24b273a0ae06689754f67ceef',
+      0 => '6dd5eb4474dd74aa2030ced8ad2aeed4ee961beb',
       1 => 
       array (
         0 => 'nette\\utils\\datetime',
@@ -406,7 +406,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/ArrayHash.php' => 
     array (
-      0 => '7f4900766dc1d93db2950b9be259f66826db6acc',
+      0 => 'cee24efe8e549b816402dae0431c223a5ed88491',
       1 => 
       array (
         0 => 'nette\\utils\\arrayhash',
@@ -427,7 +427,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Image.php' => 
     array (
-      0 => 'a3e0122f3f376cf68e74bffe377325c1998fe94d',
+      0 => '739383a31929265876d2d55a85e9497dff097b03',
       1 => 
       array (
         0 => 'nette\\utils\\image',
@@ -445,26 +445,31 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         8 => 'nette\\utils\\extensiontotype',
         9 => 'nette\\utils\\typetomimetype',
         10 => 'nette\\utils\\istypesupported',
-        11 => 'nette\\utils\\__construct',
-        12 => 'nette\\utils\\getwidth',
-        13 => 'nette\\utils\\getheight',
-        14 => 'nette\\utils\\setimageresource',
-        15 => 'nette\\utils\\getimageresource',
-        16 => 'nette\\utils\\resize',
-        17 => 'nette\\utils\\calculatesize',
-        18 => 'nette\\utils\\crop',
-        19 => 'nette\\utils\\calculatecutout',
-        20 => 'nette\\utils\\sharpen',
-        21 => 'nette\\utils\\place',
-        22 => 'nette\\utils\\save',
-        23 => 'nette\\utils\\tostring',
-        24 => 'nette\\utils\\__tostring',
-        25 => 'nette\\utils\\send',
-        26 => 'nette\\utils\\output',
-        27 => 'nette\\utils\\__call',
-        28 => 'nette\\utils\\__clone',
-        29 => 'nette\\utils\\ispercent',
-        30 => 'nette\\utils\\__sleep',
+        11 => 'nette\\utils\\getsupportedtypes',
+        12 => 'nette\\utils\\__construct',
+        13 => 'nette\\utils\\getwidth',
+        14 => 'nette\\utils\\getheight',
+        15 => 'nette\\utils\\setimageresource',
+        16 => 'nette\\utils\\getimageresource',
+        17 => 'nette\\utils\\resize',
+        18 => 'nette\\utils\\calculatesize',
+        19 => 'nette\\utils\\crop',
+        20 => 'nette\\utils\\calculatecutout',
+        21 => 'nette\\utils\\sharpen',
+        22 => 'nette\\utils\\place',
+        23 => 'nette\\utils\\calculatetextbox',
+        24 => 'nette\\utils\\rectanglewh',
+        25 => 'nette\\utils\\filledrectanglewh',
+        26 => 'nette\\utils\\save',
+        27 => 'nette\\utils\\tostring',
+        28 => 'nette\\utils\\__tostring',
+        29 => 'nette\\utils\\send',
+        30 => 'nette\\utils\\output',
+        31 => 'nette\\utils\\__call',
+        32 => 'nette\\utils\\__clone',
+        33 => 'nette\\utils\\ispercent',
+        34 => 'nette\\utils\\__sleep',
+        35 => 'nette\\utils\\resolvecolor',
       ),
       3 => 
       array (
@@ -524,7 +529,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Type.php' => 
     array (
-      0 => '5a579a71283fc284685b15d176d74e7f16a6a087',
+      0 => '3b13edc29c70dcd40105fc5fcf8e404040c7cf39',
       1 => 
       array (
         0 => 'nette\\utils\\type',
@@ -557,7 +562,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Html.php' => 
     array (
-      0 => '0ca70a4db6e3c883a5dcfd5e72586041831f802d',
+      0 => '15210683779dc48d764f0ff8ea23417fe590cfac',
       1 => 
       array (
         0 => 'nette\\utils\\html',
@@ -658,7 +663,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Arrays.php' => 
     array (
-      0 => '5a6eed3761e404d6a278bc4f270f2f531c9a5e07',
+      0 => '76e782204af9dafbcb8649d9bffa2de0e2ba5766',
       1 => 
       array (
         0 => 'nette\\utils\\arrays',
@@ -673,23 +678,26 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         5 => 'nette\\utils\\contains',
         6 => 'nette\\utils\\first',
         7 => 'nette\\utils\\last',
-        8 => 'nette\\utils\\insertbefore',
-        9 => 'nette\\utils\\insertafter',
-        10 => 'nette\\utils\\renamekey',
-        11 => 'nette\\utils\\grep',
-        12 => 'nette\\utils\\flatten',
-        13 => 'nette\\utils\\islist',
-        14 => 'nette\\utils\\associate',
-        15 => 'nette\\utils\\normalize',
-        16 => 'nette\\utils\\pick',
-        17 => 'nette\\utils\\some',
-        18 => 'nette\\utils\\every',
-        19 => 'nette\\utils\\map',
-        20 => 'nette\\utils\\invoke',
-        21 => 'nette\\utils\\invokemethod',
-        22 => 'nette\\utils\\toobject',
-        23 => 'nette\\utils\\tokey',
-        24 => 'nette\\utils\\wrap',
+        8 => 'nette\\utils\\firstkey',
+        9 => 'nette\\utils\\lastkey',
+        10 => 'nette\\utils\\insertbefore',
+        11 => 'nette\\utils\\insertafter',
+        12 => 'nette\\utils\\renamekey',
+        13 => 'nette\\utils\\grep',
+        14 => 'nette\\utils\\flatten',
+        15 => 'nette\\utils\\islist',
+        16 => 'nette\\utils\\associate',
+        17 => 'nette\\utils\\normalize',
+        18 => 'nette\\utils\\pick',
+        19 => 'nette\\utils\\some',
+        20 => 'nette\\utils\\every',
+        21 => 'nette\\utils\\filter',
+        22 => 'nette\\utils\\map',
+        23 => 'nette\\utils\\invoke',
+        24 => 'nette\\utils\\invokemethod',
+        25 => 'nette\\utils\\toobject',
+        26 => 'nette\\utils\\tokey',
+        27 => 'nette\\utils\\wrap',
       ),
       3 => 
       array (
@@ -767,6 +775,62 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'nette\\__tostring',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/Iterables.php' => 
+    array (
+      0 => 'a4e1d0bf8027fc8d9ae75f83b39aaf429587b9b7',
+      1 => 
+      array (
+        0 => 'nette\\utils\\iterables',
+      ),
+      2 => 
+      array (
+        0 => 'nette\\utils\\contains',
+        1 => 'nette\\utils\\containskey',
+        2 => 'nette\\utils\\first',
+        3 => 'nette\\utils\\firstkey',
+        4 => 'nette\\utils\\some',
+        5 => 'nette\\utils\\every',
+        6 => 'nette\\utils\\filter',
+        7 => 'nette\\utils\\map',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/ReflectionMethod.php' => 
+    array (
+      0 => 'f659a2fe5053a9c2d0d1d284266b6b9c548550e3',
+      1 => 
+      array (
+        0 => 'nette\\utils\\reflectionmethod',
+      ),
+      2 => 
+      array (
+        0 => 'nette\\utils\\__construct',
+        1 => 'nette\\utils\\getoriginalclass',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/nette/utils/src/Utils/ImageColor.php' => 
+    array (
+      0 => '8889bbb3c776e13241dad50b557446bf45fee016',
+      1 => 
+      array (
+        0 => 'nette\\utils\\imagecolor',
+      ),
+      2 => 
+      array (
+        0 => 'nette\\utils\\rgb',
+        1 => 'nette\\utils\\hex',
+        2 => 'nette\\utils\\__construct',
+        3 => 'nette\\utils\\torgba',
       ),
       3 => 
       array (

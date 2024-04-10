@@ -35,7 +35,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/Factory.php' => 
     array (
-      0 => '29ec116e035877341478baba8a7d8f0f3855cfa2',
+      0 => 'cfd868326ee3fd4269669d022a6755926b25c73b',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\factory',
@@ -57,7 +57,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ArrayComparator.php' => 
     array (
-      0 => '91203af46f2abd6898ed3456b29a4904b0b9dac1',
+      0 => '94732ea66bde8b3ecaa5d65446052945bd3162ab',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\arraycomparator',
@@ -74,17 +74,17 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/Comparator.php' => 
     array (
-      0 => 'e60b3a42c384ab370d28d5a24e48ae6202e1e5c0',
+      0 => '65a17773ecbc26b7210cc14269d734eb46732767',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\comparator',
       ),
       2 => 
       array (
-        0 => 'sebastianbergmann\\comparator\\__construct',
-        1 => 'sebastianbergmann\\comparator\\setfactory',
-        2 => 'sebastianbergmann\\comparator\\accepts',
-        3 => 'sebastianbergmann\\comparator\\assertequals',
+        0 => 'sebastianbergmann\\comparator\\setfactory',
+        1 => 'sebastianbergmann\\comparator\\accepts',
+        2 => 'sebastianbergmann\\comparator\\assertequals',
+        3 => 'sebastianbergmann\\comparator\\factory',
       ),
       3 => 
       array (
@@ -92,7 +92,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/DateTimeComparator.php' => 
     array (
-      0 => 'e52983ebe7d75906dacec22b63426dbac717dc0f',
+      0 => '747771dd6a2c235f44433e09556b782daa6dbade',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\datetimecomparator',
@@ -109,7 +109,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/NumericComparator.php' => 
     array (
-      0 => '820ac94842f4528b3c77f40fdd71eff4c9d7207b',
+      0 => '27b6d4fcfe342f8d0a29d3858d6c98744046448e',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\numericcomparator',
@@ -127,7 +127,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/TypeComparator.php' => 
     array (
-      0 => '0991879f6fb7553e8cf1a457dd4ae93c204758ae',
+      0 => '0d50113e2f36cc4912c824610774b52f371b6d0f',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\typecomparator',
@@ -143,7 +143,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ComparisonFailure.php' => 
     array (
-      0 => 'e668be8a23f67746a9e01a01ba542fd18fd1f1a5',
+      0 => '7f7b6a0bf1f828dc2476d76c7b024ddf2eb96a35',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\comparisonfailure',
@@ -164,7 +164,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/MockObjectComparator.php' => 
     array (
-      0 => '1e129b37aa0b798ec0b6fddf030dc7cdef0007bd',
+      0 => '40a9bd3da478de9eb491918773cd22e09460f0b9',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\mockobjectcomparator',
@@ -180,7 +180,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ScalarComparator.php' => 
     array (
-      0 => '907dbaaf7d70b9d7ab9bb5e764ce1efafe7098d7',
+      0 => '796c7660bc216945c8ba1639687ce0d38113d87e',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\scalarcomparator',
@@ -196,7 +196,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/DOMNodeComparator.php' => 
     array (
-      0 => '610bd9843767ee4063522a8bfadbaae5a6fd0fbf',
+      0 => 'eb282ba7b33a21b12a63e49a71dc48a83e94c6e7',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\domnodecomparator',
@@ -213,7 +213,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ExceptionComparator.php' => 
     array (
-      0 => 'b7faba6fb6ef7aa5ce65d5e885ea996e46b6ba0b',
+      0 => 'e4023fabec8573f963df9eb782f4f3d1a6c0eec8',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\exceptioncomparator',
@@ -227,25 +227,9 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
       ),
     ),
-    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/DoubleComparator.php' => 
-    array (
-      0 => 'b82e700319033d787c7592e7cae1eb5321a021a8',
-      1 => 
-      array (
-        0 => 'sebastianbergmann\\comparator\\doublecomparator',
-      ),
-      2 => 
-      array (
-        0 => 'sebastianbergmann\\comparator\\accepts',
-        1 => 'sebastianbergmann\\comparator\\assertequals',
-      ),
-      3 => 
-      array (
-      ),
-    ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ObjectComparator.php' => 
     array (
-      0 => 'f5ef824146f6c6d4f98d57907ff2293984f90374',
+      0 => 'cace1048a0b6c852bc26b721e6cff000a20b9b1f',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\objectcomparator',
@@ -262,7 +246,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/SplObjectStorageComparator.php' => 
     array (
-      0 => '333d159218e89dcb58754aee63720bb3244aabcd',
+      0 => '3aec77dd935b8f5ac2e0987f3a3e964ed72e6497',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\splobjectstoragecomparator',
@@ -278,7 +262,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/comparator/src/ResourceComparator.php' => 
     array (
-      0 => 'b1f55709af0e0f28200fe164907284ddfb603fce',
+      0 => '19b70cf69456cc042333b48ff9bbdbffa8567593',
       1 => 
       array (
         0 => 'sebastianbergmann\\comparator\\resourcecomparator',

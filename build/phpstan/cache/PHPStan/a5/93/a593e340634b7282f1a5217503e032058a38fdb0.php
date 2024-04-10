@@ -2,6 +2,6 @@
 
 // variadic-method-Illuminate\Support\ServiceProvider-register-/home/renatoxm/app/laravel-postmark-webhooks/vendor/composer/../laravel/framework/src/Illuminate/Support/ServiceProvider.php
 return \PHPStan\Cache\CacheItem::__set_state(array(
-   'variableKey' => '1692106977-v4',
+   'variableKey' => '1712675951-v4',
    'data' => false,
 ));

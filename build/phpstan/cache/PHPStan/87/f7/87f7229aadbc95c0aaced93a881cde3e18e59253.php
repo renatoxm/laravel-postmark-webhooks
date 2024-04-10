@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/environment/src/Console.php' => 
     array (
-      0 => '11680cdce046a7ac6bd8c751375443d36bd7a45a',
+      0 => 'c99178106735f1f1e6c408c69017879e43eeaa89',
       1 => 
       array (
         0 => 'sebastianbergmann\\environment\\console',
@@ -27,7 +27,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/environment/src/Runtime.php' => 
     array (
-      0 => '98bf7f4cecbd551526c34d5eaa0f5e30046295aa',
+      0 => '69e1c9c9579f469271687aa403bc8ae7932c76bb',
       1 => 
       array (
         0 => 'sebastianbergmann\\environment\\runtime',
@@ -37,35 +37,20 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         0 => 'sebastianbergmann\\environment\\cancollectcodecoverage',
         1 => 'sebastianbergmann\\environment\\discardscomments',
         2 => 'sebastianbergmann\\environment\\performsjustintimecompilation',
-        3 => 'sebastianbergmann\\environment\\getbinary',
-        4 => 'sebastianbergmann\\environment\\getnamewithversion',
-        5 => 'sebastianbergmann\\environment\\getnamewithversionandcodecoveragedriver',
-        6 => 'sebastianbergmann\\environment\\getname',
-        7 => 'sebastianbergmann\\environment\\getvendorurl',
-        8 => 'sebastianbergmann\\environment\\getversion',
-        9 => 'sebastianbergmann\\environment\\hasxdebug',
-        10 => 'sebastianbergmann\\environment\\ishhvm',
+        3 => 'sebastianbergmann\\environment\\getrawbinary',
+        4 => 'sebastianbergmann\\environment\\getbinary',
+        5 => 'sebastianbergmann\\environment\\getnamewithversion',
+        6 => 'sebastianbergmann\\environment\\getnamewithversionandcodecoveragedriver',
+        7 => 'sebastianbergmann\\environment\\getname',
+        8 => 'sebastianbergmann\\environment\\getvendorurl',
+        9 => 'sebastianbergmann\\environment\\getversion',
+        10 => 'sebastianbergmann\\environment\\hasxdebug',
         11 => 'sebastianbergmann\\environment\\isphp',
         12 => 'sebastianbergmann\\environment\\isphpdbg',
         13 => 'sebastianbergmann\\environment\\hasphpdbgcodecoverage',
         14 => 'sebastianbergmann\\environment\\haspcov',
         15 => 'sebastianbergmann\\environment\\getcurrentsettings',
         16 => 'sebastianbergmann\\environment\\isopcacheactive',
-      ),
-      3 => 
-      array (
-      ),
-    ),
-    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/environment/src/OperatingSystem.php' => 
-    array (
-      0 => '7328db129181b8e135d87765ef13c51a9fde7950',
-      1 => 
-      array (
-        0 => 'sebastianbergmann\\environment\\operatingsystem',
-      ),
-      2 => 
-      array (
-        0 => 'sebastianbergmann\\environment\\getfamily',
       ),
       3 => 
       array (

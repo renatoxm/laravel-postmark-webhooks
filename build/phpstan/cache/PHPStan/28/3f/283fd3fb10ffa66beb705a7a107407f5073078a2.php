@@ -63,22 +63,20 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit/src/CodeUnitCollection.php' => 
     array (
-      0 => '371b23402a25a6f3aea5e668e681d66c31ca760a',
+      0 => '3f4da9303595fa0e582502148abb9ce81cb5972f',
       1 => 
       array (
         0 => 'sebastianbergmann\\codeunit\\codeunitcollection',
       ),
       2 => 
       array (
-        0 => 'sebastianbergmann\\codeunit\\fromarray',
-        1 => 'sebastianbergmann\\codeunit\\fromlist',
-        2 => 'sebastianbergmann\\codeunit\\__construct',
-        3 => 'sebastianbergmann\\codeunit\\asarray',
-        4 => 'sebastianbergmann\\codeunit\\getiterator',
-        5 => 'sebastianbergmann\\codeunit\\count',
-        6 => 'sebastianbergmann\\codeunit\\isempty',
-        7 => 'sebastianbergmann\\codeunit\\mergewith',
-        8 => 'sebastianbergmann\\codeunit\\add',
+        0 => 'sebastianbergmann\\codeunit\\fromlist',
+        1 => 'sebastianbergmann\\codeunit\\__construct',
+        2 => 'sebastianbergmann\\codeunit\\asarray',
+        3 => 'sebastianbergmann\\codeunit\\getiterator',
+        4 => 'sebastianbergmann\\codeunit\\count',
+        5 => 'sebastianbergmann\\codeunit\\isempty',
+        6 => 'sebastianbergmann\\codeunit\\mergewith',
       ),
       3 => 
       array (
@@ -116,7 +114,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit/src/Mapper.php' => 
     array (
-      0 => 'a5c52ea0345c0c7117be50f1416e870822708725',
+      0 => '60bb0b8a219b88279e29f8c4bc1c694a05c46561',
       1 => 
       array (
         0 => 'sebastianbergmann\\codeunit\\mapper',
@@ -125,20 +123,12 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
         0 => 'sebastianbergmann\\codeunit\\codeunitstosourcelines',
         1 => 'sebastianbergmann\\codeunit\\stringtocodeunits',
-        2 => 'sebastianbergmann\\codeunit\\publicmethodsofclass',
-        3 => 'sebastianbergmann\\codeunit\\publicandprotectedmethodsofclass',
-        4 => 'sebastianbergmann\\codeunit\\publicandprivatemethodsofclass',
-        5 => 'sebastianbergmann\\codeunit\\protectedmethodsofclass',
-        6 => 'sebastianbergmann\\codeunit\\protectedandprivatemethodsofclass',
-        7 => 'sebastianbergmann\\codeunit\\privatemethodsofclass',
-        8 => 'sebastianbergmann\\codeunit\\methodsofclass',
-        9 => 'sebastianbergmann\\codeunit\\classandparentclassesandtraits',
-        10 => 'sebastianbergmann\\codeunit\\reflectorforclass',
-        11 => 'sebastianbergmann\\codeunit\\isuserdefinedfunction',
-        12 => 'sebastianbergmann\\codeunit\\isuserdefinedclass',
-        13 => 'sebastianbergmann\\codeunit\\isuserdefinedinterface',
-        14 => 'sebastianbergmann\\codeunit\\isuserdefinedtrait',
-        15 => 'sebastianbergmann\\codeunit\\isuserdefinedmethod',
+        2 => 'sebastianbergmann\\codeunit\\reflectorforclass',
+        3 => 'sebastianbergmann\\codeunit\\isuserdefinedfunction',
+        4 => 'sebastianbergmann\\codeunit\\isuserdefinedclass',
+        5 => 'sebastianbergmann\\codeunit\\isuserdefinedinterface',
+        6 => 'sebastianbergmann\\codeunit\\isuserdefinedtrait',
+        7 => 'sebastianbergmann\\codeunit\\isuserdefinedmethod',
       ),
       3 => 
       array (
@@ -146,7 +136,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit/src/CodeUnit.php' => 
     array (
-      0 => 'c21bedecddbec1e5c3f8512e7ce9da6a569e3d08',
+      0 => '47084f28465666d71aad1b8173316a95ea645188',
       1 => 
       array (
         0 => 'sebastianbergmann\\codeunit\\codeunit',
@@ -155,28 +145,31 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       array (
         0 => 'sebastianbergmann\\codeunit\\forclass',
         1 => 'sebastianbergmann\\codeunit\\forclassmethod',
-        2 => 'sebastianbergmann\\codeunit\\forinterface',
-        3 => 'sebastianbergmann\\codeunit\\forinterfacemethod',
-        4 => 'sebastianbergmann\\codeunit\\fortrait',
-        5 => 'sebastianbergmann\\codeunit\\fortraitmethod',
-        6 => 'sebastianbergmann\\codeunit\\forfunction',
-        7 => 'sebastianbergmann\\codeunit\\__construct',
-        8 => 'sebastianbergmann\\codeunit\\name',
-        9 => 'sebastianbergmann\\codeunit\\sourcefilename',
-        10 => 'sebastianbergmann\\codeunit\\sourcelines',
-        11 => 'sebastianbergmann\\codeunit\\isclass',
-        12 => 'sebastianbergmann\\codeunit\\isclassmethod',
-        13 => 'sebastianbergmann\\codeunit\\isinterface',
-        14 => 'sebastianbergmann\\codeunit\\isinterfacemethod',
-        15 => 'sebastianbergmann\\codeunit\\istrait',
-        16 => 'sebastianbergmann\\codeunit\\istraitmethod',
-        17 => 'sebastianbergmann\\codeunit\\isfunction',
-        18 => 'sebastianbergmann\\codeunit\\ensureuserdefinedclass',
-        19 => 'sebastianbergmann\\codeunit\\ensureuserdefinedinterface',
-        20 => 'sebastianbergmann\\codeunit\\ensureuserdefinedtrait',
-        21 => 'sebastianbergmann\\codeunit\\reflectorforclass',
-        22 => 'sebastianbergmann\\codeunit\\reflectorforclassmethod',
-        23 => 'sebastianbergmann\\codeunit\\reflectorforfunction',
+        2 => 'sebastianbergmann\\codeunit\\forfilewithabsolutepath',
+        3 => 'sebastianbergmann\\codeunit\\forinterface',
+        4 => 'sebastianbergmann\\codeunit\\forinterfacemethod',
+        5 => 'sebastianbergmann\\codeunit\\fortrait',
+        6 => 'sebastianbergmann\\codeunit\\fortraitmethod',
+        7 => 'sebastianbergmann\\codeunit\\forfunction',
+        8 => 'sebastianbergmann\\codeunit\\__construct',
+        9 => 'sebastianbergmann\\codeunit\\name',
+        10 => 'sebastianbergmann\\codeunit\\sourcefilename',
+        11 => 'sebastianbergmann\\codeunit\\sourcelines',
+        12 => 'sebastianbergmann\\codeunit\\isclass',
+        13 => 'sebastianbergmann\\codeunit\\isclassmethod',
+        14 => 'sebastianbergmann\\codeunit\\isinterface',
+        15 => 'sebastianbergmann\\codeunit\\isinterfacemethod',
+        16 => 'sebastianbergmann\\codeunit\\istrait',
+        17 => 'sebastianbergmann\\codeunit\\istraitmethod',
+        18 => 'sebastianbergmann\\codeunit\\isfunction',
+        19 => 'sebastianbergmann\\codeunit\\isfile',
+        20 => 'sebastianbergmann\\codeunit\\ensurefileexistsandisreadable',
+        21 => 'sebastianbergmann\\codeunit\\ensureuserdefinedclass',
+        22 => 'sebastianbergmann\\codeunit\\ensureuserdefinedinterface',
+        23 => 'sebastianbergmann\\codeunit\\ensureuserdefinedtrait',
+        24 => 'sebastianbergmann\\codeunit\\reflectorforclass',
+        25 => 'sebastianbergmann\\codeunit\\reflectorforclassmethod',
+        26 => 'sebastianbergmann\\codeunit\\reflectorforfunction',
       ),
       3 => 
       array (
@@ -214,7 +207,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit/src/CodeUnitCollectionIterator.php' => 
     array (
-      0 => 'eb09f4511e0286fce258eaf7eb69525fadec2a6e',
+      0 => '9b362aa1155faaab130a316ad43f0b4ee65f1eb9',
       1 => 
       array (
         0 => 'sebastianbergmann\\codeunit\\codeunitcollectioniterator',
@@ -272,6 +265,21 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\codeunit\\isfunction',
+      ),
+      3 => 
+      array (
+      ),
+    ),
+    '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit/src/FileUnit.php' => 
+    array (
+      0 => '815ebf5ac6b08e73333670308a5b1f179a68ae67',
+      1 => 
+      array (
+        0 => 'sebastianbergmann\\codeunit\\fileunit',
+      ),
+      2 => 
+      array (
+        0 => 'sebastianbergmann\\codeunit\\isfile',
       ),
       3 => 
       array (

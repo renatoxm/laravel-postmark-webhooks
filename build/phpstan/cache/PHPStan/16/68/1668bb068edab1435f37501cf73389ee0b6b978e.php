@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/lines-of-code/src/LinesOfCode.php' => 
     array (
-      0 => '468fbcf44dd3c9f1ccd8016f26968ffc49f8ce63',
+      0 => 'c898b1a687f38ebf8b9a3f73d78cf8724c01104e',
       1 => 
       array (
         0 => 'sebastianbergmann\\linesofcode\\linesofcode',
@@ -27,7 +27,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php' => 
     array (
-      0 => '33120345587ac16f2459ff2063be4cf8a73f6aad',
+      0 => 'e61a7ee47e02a441986c55fa6a85183e8b50da26',
       1 => 
       array (
         0 => 'sebastianbergmann\\linesofcode\\linecountingvisitor',
@@ -45,7 +45,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/lines-of-code/src/Counter.php' => 
     array (
-      0 => '73a9259563dde3486b5c1488a9928072568f0cc4',
+      0 => 'd16e00dd0489847e028282c42805760ae8bdbd37',
       1 => 
       array (
         0 => 'sebastianbergmann\\linesofcode\\counter',
@@ -55,7 +55,6 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         0 => 'sebastianbergmann\\linesofcode\\countinsourcefile',
         1 => 'sebastianbergmann\\linesofcode\\countinsourcestring',
         2 => 'sebastianbergmann\\linesofcode\\countinabstractsyntaxtree',
-        3 => 'sebastianbergmann\\linesofcode\\parser',
       ),
       3 => 
       array (

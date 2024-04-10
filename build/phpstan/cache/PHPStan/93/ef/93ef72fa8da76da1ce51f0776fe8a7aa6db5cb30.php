@@ -44,7 +44,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/CallableType.php' => 
     array (
-      0 => '56ef48a843aa34f8f094674e83faf6e9abdde2f4',
+      0 => '64da7fb014cbd8f6f38fdbf5ecfb3c13c243048c',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\callabletype',
@@ -86,7 +86,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/IntersectionType.php' => 
     array (
-      0 => 'c378de197a8683c6b9cd7f75c69e8670f9306097',
+      0 => 'fc8cea695ddc4b33cf0d16f32d56f7e9098966f2',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\intersectiontype',
@@ -110,7 +110,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/GenericObjectType.php' => 
     array (
-      0 => 'e2dc5f9f404351f9857d799513f2c8142e304b12',
+      0 => '221b8ca85168f7b0d874cc1290cf65b735418573',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\genericobjecttype',
@@ -129,7 +129,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/StaticType.php' => 
     array (
-      0 => '2039339823fa5690669bbaeef1b84b59f6b091c2',
+      0 => '16a819ad01bc24227f40dac8ab789bf7f626c1ca',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\statictype',
@@ -167,7 +167,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/IterableType.php' => 
     array (
-      0 => 'f526b4bb29b540a17e8fba913d3b5adcb2a2c698',
+      0 => '2c6e3d5dcf3f151023f2216a1e762d3d17bafb28',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\iterabletype',
@@ -205,7 +205,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/UnionType.php' => 
     array (
-      0 => '4f5720fe40154ac240f238c97c10eedd070517ee',
+      0 => '0b178bbadaf2b32c03c2a775044d82a4498009dc',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\uniontype',
@@ -247,7 +247,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/Type.php' => 
     array (
-      0 => '767c16b30d83cc3c5ec1a76345fef00d17b32e6a',
+      0 => '83422072ac3eaefbd625bebac134874f41ef9231',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\type',
@@ -282,7 +282,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/SimpleType.php' => 
     array (
-      0 => 'a4b188f6d41011b5ab17e4143e7d8562e6f0fbb0',
+      0 => '944a27ab5f219fd6a1a61c3a3b84feab408d011f',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\simpletype',
@@ -321,7 +321,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/type/ObjectType.php' => 
     array (
-      0 => 'acde7dde2a787baac14f2fe066898785d3e4e34b',
+      0 => '6885c4d7b7193e1d9114095d432c1d32863702e1',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\objecttype',
@@ -369,7 +369,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/TypeName.php' => 
     array (
-      0 => '173d4135c2563591ff52c97ab5a82ae24e9e4ded',
+      0 => '25ef01000d201c93da1933d8c4562ebc343a984e',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\typename',
@@ -390,7 +390,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/Parameter.php' => 
     array (
-      0 => 'e65732b4bf1fd85922da95ae515ac2b1f0ba9e9f',
+      0 => '718329ebcb297112f5ab03dd354d82c0b192e8f2',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\parameter',
@@ -407,7 +407,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/type/src/ReflectionMapper.php' => 
     array (
-      0 => '59031642f8795ecdce443c34e128e59fae38f9b6',
+      0 => '8a00162fd40b469db622ae9c144d34b7d913e687',
       1 => 
       array (
         0 => 'sebastianbergmann\\type\\reflectionmapper',

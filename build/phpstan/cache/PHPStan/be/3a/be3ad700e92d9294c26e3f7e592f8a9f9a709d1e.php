@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/code-unit-reverse-lookup/src/Wizard.php' => 
     array (
-      0 => '225187f5fcc9ce5a1ebe3af5a2352d7ae91af95d',
+      0 => '3ec416a40c6c9be140bf4b90bdf26ed7403f9c18',
       1 => 
       array (
         0 => 'sebastianbergmann\\codeunitreverselookup\\wizard',

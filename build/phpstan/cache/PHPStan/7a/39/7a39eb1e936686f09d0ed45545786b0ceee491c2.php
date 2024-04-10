@@ -21,7 +21,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/cli-parser/src/exceptions/UnknownOptionException.php' => 
     array (
-      0 => '12c3daed8d4904f988df33604328f2780a0941f6',
+      0 => 'f0605798d3c3ae00645df1385df6c8d62f211b0f',
       1 => 
       array (
         0 => 'sebastianbergmann\\cliparser\\unknownoptionexception',
@@ -36,7 +36,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/cli-parser/src/exceptions/RequiredOptionArgumentMissingException.php' => 
     array (
-      0 => 'b7e683f554ba0d91e0f1c59e5effdf3d5ce11472',
+      0 => '5f59479dd69423f980e20119ac5a3462e87cf3e9',
       1 => 
       array (
         0 => 'sebastianbergmann\\cliparser\\requiredoptionargumentmissingexception',
@@ -51,7 +51,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/cli-parser/src/exceptions/AmbiguousOptionException.php' => 
     array (
-      0 => '5525c94ccb06f1ae83ae98cfdee8e57ed68cb11c',
+      0 => '5cbf71bd59993fba2e04573fd2af3e896ba6cb44',
       1 => 
       array (
         0 => 'sebastianbergmann\\cliparser\\ambiguousoptionexception',
@@ -66,7 +66,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/cli-parser/src/exceptions/OptionDoesNotAllowArgumentException.php' => 
     array (
-      0 => '59a0bec469edc6c444151e24fd1668f938d8f895',
+      0 => 'cda9342e391e62cf0d074e78b888e34325ac1d58',
       1 => 
       array (
         0 => 'sebastianbergmann\\cliparser\\optiondoesnotallowargumentexception',
@@ -81,7 +81,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/cli-parser/src/Parser.php' => 
     array (
-      0 => 'b514747e8d13d7847746c06f29cecbe6b668f8c6',
+      0 => '93248d3ddadf4f117ff92c05b33b8f9c6af46547',
       1 => 
       array (
         0 => 'sebastianbergmann\\cliparser\\parser',

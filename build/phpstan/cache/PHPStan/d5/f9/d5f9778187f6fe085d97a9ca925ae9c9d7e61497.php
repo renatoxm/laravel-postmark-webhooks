@@ -7,7 +7,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
   array (
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php' => 
     array (
-      0 => '3d6f9369366f51cfd350c9605b3f5163ebb66d13',
+      0 => '9c751fa05c0afc12c4272bf6ee5f4dfeeb6a24e9',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\output\\diffonlyoutputbuilder',
@@ -38,7 +38,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php' => 
     array (
-      0 => 'd1702a6720bf03cc29e636dba789962af15317b7',
+      0 => '7a40899df1b987ed49f8da9b60b10a1ea1d0d278',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\output\\unifieddiffoutputbuilder',
@@ -56,7 +56,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php' => 
     array (
-      0 => '47afed8b318b3bfffe29c97a2410ef86592085b9',
+      0 => '86853145669bd9157b179b87c54398fed9a865fc',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\output\\strictunifieddiffoutputbuilder',
@@ -76,7 +76,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php' => 
     array (
-      0 => 'f67b57d4bb12e3c3ef7a455b743b901d5f2e1ec0',
+      0 => '9abcd9bfe1d5427a12c8dcd86bad72ef3c35446e',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\output\\abstractchunkoutputbuilder',
@@ -91,7 +91,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Differ.php' => 
     array (
-      0 => 'a7d2a872aa667d217325037d44cd94e17c0e25d0',
+      0 => 'eb365eb5907b5776c49c2d5213c493ae43db750f',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\differ',
@@ -101,13 +101,12 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
         0 => 'sebastianbergmann\\diff\\__construct',
         1 => 'sebastianbergmann\\diff\\diff',
         2 => 'sebastianbergmann\\diff\\difftoarray',
-        3 => 'sebastianbergmann\\diff\\normalizediffinput',
-        4 => 'sebastianbergmann\\diff\\splitstringbylines',
-        5 => 'sebastianbergmann\\diff\\selectlcsimplementation',
-        6 => 'sebastianbergmann\\diff\\calculateestimatedfootprint',
-        7 => 'sebastianbergmann\\diff\\detectunmatchedlineendings',
-        8 => 'sebastianbergmann\\diff\\getlinebreak',
-        9 => 'sebastianbergmann\\diff\\getarraydiffparted',
+        3 => 'sebastianbergmann\\diff\\splitstringbylines',
+        4 => 'sebastianbergmann\\diff\\selectlcsimplementation',
+        5 => 'sebastianbergmann\\diff\\calculateestimatedfootprint',
+        6 => 'sebastianbergmann\\diff\\detectunmatchedlineendings',
+        7 => 'sebastianbergmann\\diff\\getlinebreak',
+        8 => 'sebastianbergmann\\diff\\getarraydiffparted',
       ),
       3 => 
       array (
@@ -115,7 +114,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php' => 
     array (
-      0 => 'fd263a6e8c1c504b1478c6adac37aa087a8691c5',
+      0 => '1094567a27eb68b63a68e3fb9781698c0786f8ea',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\memoryefficientlongestcommonsubsequencecalculator',
@@ -131,7 +130,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Chunk.php' => 
     array (
-      0 => '9bb9748300e93086514cf2e0d20c899867956ec9',
+      0 => '3cecc7e1fcc04b31fb637ff4259fd31ea9220b5a',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\chunk',
@@ -139,12 +138,18 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\diff\\__construct',
-        1 => 'sebastianbergmann\\diff\\getstart',
-        2 => 'sebastianbergmann\\diff\\getstartrange',
-        3 => 'sebastianbergmann\\diff\\getend',
-        4 => 'sebastianbergmann\\diff\\getendrange',
-        5 => 'sebastianbergmann\\diff\\getlines',
+        1 => 'sebastianbergmann\\diff\\start',
+        2 => 'sebastianbergmann\\diff\\startrange',
+        3 => 'sebastianbergmann\\diff\\end',
+        4 => 'sebastianbergmann\\diff\\endrange',
+        5 => 'sebastianbergmann\\diff\\lines',
         6 => 'sebastianbergmann\\diff\\setlines',
+        7 => 'sebastianbergmann\\diff\\getstart',
+        8 => 'sebastianbergmann\\diff\\getstartrange',
+        9 => 'sebastianbergmann\\diff\\getend',
+        10 => 'sebastianbergmann\\diff\\getendrange',
+        11 => 'sebastianbergmann\\diff\\getlines',
+        12 => 'sebastianbergmann\\diff\\getiterator',
       ),
       3 => 
       array (
@@ -152,7 +157,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php' => 
     array (
-      0 => '2b7b1e05ee0fe596b6a1619e72c1f0f88cc4f0b2',
+      0 => '463678f06839786edb3b1838cd5eee94f3280f28',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\timeefficientlongestcommonsubsequencecalculator',
@@ -182,7 +187,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Line.php' => 
     array (
-      0 => '8a1bc24bdcfbfb73a32b672f713deb3138ae8578',
+      0 => '1abcd50e6e71a125db5854dd267f6cacd4e8178f',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\line',
@@ -190,8 +195,13 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\diff\\__construct',
-        1 => 'sebastianbergmann\\diff\\getcontent',
-        2 => 'sebastianbergmann\\diff\\gettype',
+        1 => 'sebastianbergmann\\diff\\content',
+        2 => 'sebastianbergmann\\diff\\type',
+        3 => 'sebastianbergmann\\diff\\isadded',
+        4 => 'sebastianbergmann\\diff\\isremoved',
+        5 => 'sebastianbergmann\\diff\\isunchanged',
+        6 => 'sebastianbergmann\\diff\\getcontent',
+        7 => 'sebastianbergmann\\diff\\gettype',
       ),
       3 => 
       array (
@@ -199,7 +209,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Diff.php' => 
     array (
-      0 => 'a58bf61ba1c4a68b59af9d2b68a317a968c5f14f',
+      0 => 'a4051f9b45e9d1ccb5c6e97be74343129d4663cc',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\diff',
@@ -207,10 +217,14 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
       2 => 
       array (
         0 => 'sebastianbergmann\\diff\\__construct',
-        1 => 'sebastianbergmann\\diff\\getfrom',
-        2 => 'sebastianbergmann\\diff\\getto',
-        3 => 'sebastianbergmann\\diff\\getchunks',
+        1 => 'sebastianbergmann\\diff\\from',
+        2 => 'sebastianbergmann\\diff\\to',
+        3 => 'sebastianbergmann\\diff\\chunks',
         4 => 'sebastianbergmann\\diff\\setchunks',
+        5 => 'sebastianbergmann\\diff\\getfrom',
+        6 => 'sebastianbergmann\\diff\\getto',
+        7 => 'sebastianbergmann\\diff\\getchunks',
+        8 => 'sebastianbergmann\\diff\\getiterator',
       ),
       3 => 
       array (
@@ -232,7 +246,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Exception/ConfigurationException.php' => 
     array (
-      0 => '1c3ae2a7d71991f7720ea7d3a03ebad0d03fa11a',
+      0 => 'f0668a27841bed4db68cd40b1b3f6c193b866345',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\configurationexception',
@@ -261,7 +275,7 @@ return \PHPStan\Cache\CacheItem::__set_state(array(
     ),
     '/home/renatoxm/app/laravel-postmark-webhooks/vendor/sebastian/diff/src/Parser.php' => 
     array (
-      0 => '32467ab06eb69daecda24980806de3974436485e',
+      0 => '93087cfad4c8a2b687acc1b36bacfaa54c5cec21',
       1 => 
       array (
         0 => 'sebastianbergmann\\diff\\parser',
