@@ -4,3 +4,8 @@ composer.lock
 vendor
 coverage
 phpunit.xml
+tests/temp
+.idea
+.phpunit.cache
+.phpunit.result.cache
+.php-cs-fixer.cache
