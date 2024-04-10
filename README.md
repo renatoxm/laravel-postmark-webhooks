@@ -19,6 +19,12 @@ You can install the package via composer:
 composer require RenatoXM/laravel-postmark-webhooks
 ```
 
+Publish config and migration files:
+
+```bash
+sail artisan vendor:publish --provider="RenatoXM\PostmarkWebhooks\PostmarkWebhooksServiceProvider"
+```
+
 This package will log all incoming webhooks to the database by default.  
 Run the migrations to create a `postmark_webhook_logs` table in the database:
 
