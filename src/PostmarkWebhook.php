@@ -10,16 +10,14 @@ class PostmarkWebhook extends Model
     /** @var string|null */
     const UPDATED_AT = null;
 
-    /** @var array */
+    /** @var array<string, string> */
     protected $casts = [
         'payload' => 'array',
     ];
 
     public function __construct(array $attributes = [])
     {
-        if (! isset($this->table)) {
-            $this->setTable(config('postmark-webhooks.log.table_name'));
-        }
+        $this->setTable(config('postmark-webhooks.log.table_name'));
 
         parent::__construct($attributes);
     }

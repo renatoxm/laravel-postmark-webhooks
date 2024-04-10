@@ -15,8 +15,6 @@ class PostmarkWebhookTest extends TestCase
     {
         config(['postmark-webhooks.log.table_name' => 'test_table_name']);
         $this->assertEquals('test_table_name', (new PostmarkWebhook())->getTable());
-
-        $this->assertEquals('dummy_table', (new DummyPostmarkWebhook())->getTable());
     }
 
     /** @test */
