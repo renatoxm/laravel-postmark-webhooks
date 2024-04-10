@@ -8,6 +8,10 @@ All notable changes to `laravel-postmark-webhooks` will be documented in this fi
 
 - Adds IP Addresses to a config
 
+## [v2.0.0] - 2024-04-10
+
+- Laravel 11 support
+
 ## LEGACY REPOSITORY CHANGELOG
 
 [mvdnbrk/laravel-postmark-webhooks](https://github.com/mvdnbrk/laravel-postmark-webhooks)
